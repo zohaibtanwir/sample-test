@@ -1,0 +1,36 @@
+{
+    "cartItems": [
+        {
+            "id": "cart-item-1",
+            "productId": "prod-1",
+            "productName": "Wireless Bluetooth Headphones",
+            "price": 79.99,
+            "quantity": 2,
+            "subtotal": 159.98
+        },
+        {
+            "id": "cart-item-2",
+            "productId": "prod-2",
+            "productName": "USB-C Charging Cable",
+            "price": 15.99,
+            "quantity": 1,
+            "subtotal": 15.99
+        },
+        {
+            "id": "cart-item-3",
+            "productId": "prod-3",
+            "productName": "Smartphone Case",
+            "price": 24.99,
+            "quantity": 3,
+            "subtotal": 74.97
+        },
+        {
+            "id": "cart-item-4",
+            "productId": "prod-4",
+            "productName": "Portable Power Bank",
+            "price": 45.00,
+            "quantity": 1,
+            "subtotal": 45.00
+        }
+    ]
+}
