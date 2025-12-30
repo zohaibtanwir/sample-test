@@ -1,0 +1,34 @@
+{
+    "shippingAddresses": [
+        {
+            "id": "addr-1",
+            "street": "123 Main Street",
+            "city": "New York",
+            "zip": "10001"
+        },
+        {
+            "id": "addr-2",
+            "street": "456 Oak Avenue",
+            "city": "Los Angeles",
+            "zip": "90210"
+        },
+        {
+            "id": "addr-3",
+            "street": "789 Pine Road",
+            "city": "Chicago",
+            "zip": "60601"
+        },
+        {
+            "id": "addr-4",
+            "street": "321 Elm Drive",
+            "city": "Houston",
+            "zip": "77001"
+        },
+        {
+            "id": "addr-5",
+            "street": "654 Maple Lane",
+            "city": "Phoenix",
+            "zip": "85001"
+        }
+    ]
+}
