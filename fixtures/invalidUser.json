@@ -1,0 +1,6 @@
+{
+    "invalidUser": {
+        "email": "invalid-email-format",
+        "password": "123"
+    }
+}
