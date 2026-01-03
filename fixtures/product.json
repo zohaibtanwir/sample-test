@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": "prod-1",
+            "name": "Wireless Bluetooth Headphones",
+            "price": 79.99,
+            "description": "High-quality wireless headphones with noise cancellation and 20-hour battery life",
+            "availability": true
+        },
+        {
+            "id": "prod-2",
+            "name": "Smart Fitness Tracker",
+            "price": 149.99,
+            "description": "Advanced fitness tracker with heart rate monitoring, GPS, and sleep tracking",
+            "availability": true
+        },
+        {
+            "id": "prod-3",
+            "name": "Portable Phone Charger",
+            "price": 24.99,
+            "description": "Compact 10000mAh power bank with fast charging and dual USB ports",
+            "availability": false
+        },
+        {
+            "id": "prod-4",
+            "name": "Ergonomic Office Chair",
+            "price": 299.99,
+            "description": "Adjustable office chair with lumbar support and breathable mesh back",
+            "availability": true
+        },
+        {
+            "id": "prod-5",
+            "name": "Stainless Steel Water Bottle",
+            "price": 19.99,
+            "description": "Insulated water bottle that keeps drinks cold for 24 hours or hot for 12 hours",
+            "availability": true
+        }
+    ]
+}
