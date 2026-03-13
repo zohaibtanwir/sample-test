@@ -1,0 +1,39 @@
+{
+    "testProducts": [
+        {
+            "id": "prod-001",
+            "name": "Wireless Bluetooth Headphones",
+            "price": 79.99,
+            "category": "Electronics",
+            "description": "High-quality wireless headphones with noise cancellation and 20-hour battery life"
+        },
+        {
+            "id": "prod-002",
+            "name": "Organic Cotton T-Shirt",
+            "price": 24.99,
+            "category": "Clothing",
+            "description": "Comfortable 100% organic cotton t-shirt available in multiple colors and sizes"
+        },
+        {
+            "id": "prod-003",
+            "name": "Stainless Steel Water Bottle",
+            "price": 19.99,
+            "category": "Home & Garden",
+            "description": "Insulated stainless steel water bottle that keeps drinks cold for 24 hours or hot for 12 hours"
+        },
+        {
+            "id": "prod-004",
+            "name": "JavaScript Programming Book",
+            "price": 39.99,
+            "category": "Books",
+            "description": "Comprehensive guide to modern JavaScript programming with practical examples and exercises"
+        },
+        {
+            "id": "prod-005",
+            "name": "Yoga Mat Premium",
+            "price": 49.99,
+            "category": "Sports & Fitness",
+            "description": "Non-slip premium yoga mat with extra cushioning and eco-friendly materials"
+        }
+    ]
+}
