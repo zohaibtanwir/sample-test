@@ -1,0 +1,60 @@
+{
+    "womensTopsProducts": [
+        {
+            "id": "wt-001",
+            "name": "Floral Print Blouse",
+            "availableSizes": ["XS", "S", "M", "L", "XL"],
+            "stockStatus": "in-stock",
+            "category": "Women's Tops"
+        },
+        {
+            "id": "wt-002",
+            "name": "Classic White Button-Down Shirt",
+            "availableSizes": ["S", "M", "L", "XL"],
+            "stockStatus": "in-stock",
+            "category": "Women's Tops"
+        },
+        {
+            "id": "wt-003",
+            "name": "Striped Long Sleeve Tee",
+            "availableSizes": ["XS", "S", "M", "L"],
+            "stockStatus": "low-stock",
+            "category": "Women's Tops"
+        },
+        {
+            "id": "wt-004",
+            "name": "Silk Camisole",
+            "availableSizes": ["S", "M", "L"],
+            "stockStatus": "out-of-stock",
+            "category": "Women's Tops"
+        },
+        {
+            "id": "wt-005",
+            "name": "Cropped Denim Jacket",
+            "availableSizes": ["XS", "S", "M", "L", "XL", "XXL"],
+            "stockStatus": "in-stock",
+            "category": "Women's Tops"
+        },
+        {
+            "id": "wt-006",
+            "name": "Bohemian Peasant Top",
+            "availableSizes": ["S", "M", "L", "XL"],
+            "stockStatus": "in-stock",
+            "category": "Women's Tops"
+        },
+        {
+            "id": "wt-007",
+            "name": "Ribbed Tank Top",
+            "availableSizes": ["XS", "S", "M", "L", "XL"],
+            "stockStatus": "low-stock",
+            "category": "Women's Tops"
+        },
+        {
+            "id": "wt-008",
+            "name": "Cashmere Sweater",
+            "availableSizes": ["S", "M", "L"],
+            "stockStatus": "in-stock",
+            "category": "Women's Tops"
+        }
+    ]
+}

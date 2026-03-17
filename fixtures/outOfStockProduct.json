@@ -1,0 +1,8 @@
+{
+    "outOfStockProduct": {
+        "id": "prod-005",
+        "name": "Premium Running Shoes",
+        "unavailableSize": "US 10",
+        "stockStatus": "out_of_stock"
+    }
+}
