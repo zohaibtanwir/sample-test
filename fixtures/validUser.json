@@ -1,0 +1,7 @@
+{
+    "validUser": {
+        "email": "john.doe@example.com",
+        "password": "SecurePass123!",
+        "savedSizePreference": "Medium"
+    }
+}
